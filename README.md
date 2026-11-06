@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Nurhalimah · Software Engineer · Full-stack & Data Engineering" width="100%" />
+  <img src="./assets/banner.svg" alt="Nurhalimah · Data Engineer · Frontend & UI/UX" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+full-stack+web+apps+with+React+%26+Python;Turning+raw+data+into+pipelines+and+dashboards;Digitalizing+manual+processes+end-to-end" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+reliable+data+pipelines+with+Python+%26+SQL;Designing+clean+interfaces+in+Figma;Turning+designs+into+React+frontends" alt="Typing intro" />
   </a>
 </p>
 
@@ -17,12 +17,12 @@
 
 ### 👋 About me
 
-I'm **Nurhalimah**, a Computer Science graduate and aspiring **Software Engineer** who works where software meets data. I build full-stack web applications with **React** and **Python**, design **SQL** databases, and build **ETL pipelines** and **Power BI** dashboards that replace manual, spreadsheet-driven work with reliable digital workflows.
+I'm **Nurhalimah**, a Computer Science graduate who works where data meets design. I build **data pipelines** that move raw data into clean, well-modeled **SQL** databases and **Power BI** dashboards, and I design and build the **frontends** people use to explore it, from **Figma** wireframes to responsive **React** interfaces.
 
-- 🛠️ **Focus:** full-stack web development, data engineering, and digitalization
-- 📊 **Recent work:** interactive public-health analytics dashboard for stunting prevalence across Indonesian regencies
-- 🌱 **Learning now:** FastAPI, cloud data pipelines, and testing practices for production code
-- 🤝 **Open to:** Software Engineer, Full-stack Developer, and Data Engineer roles
+- 🗄️ **Data engineering:** ETL pipelines with Python and SQL, data modeling, dashboards
+- 🎨 **Frontend & UI/UX:** user research, wireframes and prototypes in Figma, React implementation
+- 📊 **Recent work:** interactive public-health dashboard for stunting prevalence across Indonesian regencies
+- 🤝 **Open to:** Data Engineer, Frontend Developer, and UI/UX-focused engineering roles
 
 ---
 
@@ -30,10 +30,10 @@ I'm **Nurhalimah**, a Computer Science graduate and aspiring **Software Engineer
 
 | Area | Tools |
 | :-- | :-- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" height="36" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=python,flask,php,java,nodejs" height="36" alt="Backend" /> |
-| **Data & Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" height="36" alt="Databases" /> &nbsp; ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="36" alt="Tools" /> |
+| **Data Engineering** | <img src="https://skillicons.dev/icons?i=python,mysql,postgres,sqlite" height="36" alt="Data" /> &nbsp; ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-1E3A8A?style=flat-square) |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" height="36" alt="Frontend" /> |
+| **UI/UX Design** | <img src="https://skillicons.dev/icons?i=figma,xd" height="36" alt="Design" /> &nbsp; ![Wireframing](https://img.shields.io/badge/Wireframing-1E3A8A?style=flat-square) ![Prototyping](https://img.shields.io/badge/Prototyping-1E3A8A?style=flat-square) ![Design Systems](https://img.shields.io/badge/Design_Systems-1E3A8A?style=flat-square) |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="36" alt="Tools" /> |
 
 ---
 
@@ -46,7 +46,7 @@ I'm **Nurhalimah**, a Computer Science graduate and aspiring **Software Engineer
 | [**Student Records System**](https://github.com/halimochy/student-records-php-mysql) | Web CRUD app for student data with photo upload and one-click PDF report export. | PHP · MySQL · PDO · FPDF · Bootstrap |
 | [**Cashier CLI**](https://github.com/halimochy/cashier-cli-java) | Command-line cashier app built around OOP principles: encapsulation, inheritance, and polymorphism. | Java · OOP |
 
-<!-- Add your React, ETL and Power BI projects here as you publish them. Keep 4–6 rows maximum. -->
+<!-- Add your ETL pipeline, Power BI, and Figma/React projects here as you publish them. Keep 4–6 rows maximum. -->
 
 ---
 
@@ -65,6 +65,6 @@ I'm **Nurhalimah**, a Computer Science graduate and aspiring **Software Engineer
 
 ### 📫 Let's connect
 
-I'm happy to talk about software engineering roles, data projects, or digitalization ideas.
+I'm happy to talk about data engineering, frontend, or UI/UX roles and projects.
 
 **LinkedIn:** [linkedin.com/in/halimahnvr](https://www.linkedin.com/in/halimahnvr) · **Email:** [nurhalimahnvr@gmail.com](mailto:nurhalimahnvr@gmail.com)
